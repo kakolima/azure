@@ -19,9 +19,6 @@
         "Microsoft.Resources/subscriptions/*/read",
         "Microsoft.Sql/managedInstances/*/read",
         "Microsoft.Sql/servers/databases/*/read",
-        "Microsoft.Sql/servers/databases/pause/action",
-        "Microsoft.Sql/servers/databases/resume/action",
-        "Microsoft.Sql/servers/databases/write",
         "Microsoft.Sql/servers/read",
         "Microsoft.Storage/storageAccounts/listkeys/action"
     ],

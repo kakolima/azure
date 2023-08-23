@@ -52,6 +52,7 @@
         "Microsoft.Sql/servers/read",
         "Microsoft.Storage/storageAccounts/blobServices/containers/read",
         "Microsoft.Storage/storageAccounts/read",
+        "Microsoft.Storage/storageAccounts/listkeys/action",
         "Microsoft.Synapse/SKUs/read",
         "Microsoft.Synapse/workspaces/keys/read",
         "Microsoft.Synapse/workspaces/read",

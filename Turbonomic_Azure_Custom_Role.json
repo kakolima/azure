@@ -24,7 +24,6 @@
         "Microsoft.Compute/virtualMachines/extensions/read",
         "Microsoft.Compute/virtualMachines/instanceView/read",
         "Microsoft.Compute/virtualMachines/read",
-        "Microsoft.Compute/virtualMachines/start/action",
         "Microsoft.Compute/virtualMachines/vmSizes/read",
         "Microsoft.Consumption/pricesheets/read",
         "Microsoft.ContainerService/managedClusters/agentPools/read",

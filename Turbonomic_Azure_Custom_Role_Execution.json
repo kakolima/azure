@@ -1,6 +1,6 @@
 {
-    "Name": "Turbonomic Minimal Access",
-    "Description": "Turbonomic Minimal access policy for Azure",
+    "Name": "Turbonomic Execution Access",
+    "Description": "Turbonomic Execution access policy for Azure",
     "IsCustom": "true",
     "Actions": [
         "Microsoft.Authorization/locks/read",
@@ -74,6 +74,10 @@
         "Microsoft.DocumentDB/databaseAccounts/tables/throughputSettings/write",
         "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/throughputSettings/write",
         "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/write",
+        "Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/delete",
+        "Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/delete",
+        "Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/delete",
+        "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/delete",
         "Microsoft.Insights/Metrics/Read",
         "Microsoft.Migrate/migrateprojects/read",
         "Microsoft.Migrate/migrateprojects/solutions/read",
